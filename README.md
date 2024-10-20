@@ -53,7 +53,7 @@ Before running the script, ensure that you have the following:
    
 5. **Provide Required Information**:
    Provide Required Information: The script will prompt you for the following details:
- ```
+
   Coin Name: The full name of your token (e.g., Mycoin).
 
   Short Name: A short symbol for your token (e.g., MYC).
@@ -73,7 +73,7 @@ Before running the script, ensure that you have the following:
   Metadata File URL: Where the metadata will be hosted.
    
 3. **Confirm Token Creation**:
-   ```bash
+   
    After reviewing your inputs, you will be asked to confirm the creation of the token. Type yes to proceed.
 
 --------------------------------------------------------------------------------------------------------------------------------------
