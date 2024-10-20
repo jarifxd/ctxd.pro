@@ -36,7 +36,7 @@ Before running the script, ensure that you have the following:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/jarifxd/ctxd.pro.git
-   cd ctxd
+   cd ctxd.pro
 
 2. **Make the Script Executable**:
    ```bash
