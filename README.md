@@ -54,23 +54,23 @@ Before running the script, ensure that you have the following:
 5. **Provide Required Information**:
    Provide Required Information: The script will prompt you for the following details:
 
-  Coin Name: The full name of your token (e.g., Mycoin).
+      Coin Name: The full name of your token (e.g., Mycoin).
 
-  Short Name: A short symbol for your token (e.g., MYC).
+      Short Name: A short symbol for your token (e.g., MYC).
 
-  Coin Description: A brief summary of your token's purpose.
+      Coin Description: A brief summary of your token's purpose.
 
-  Coin Image Link: A URL to the token's logo.
+      Coin Image Link: A URL to the token's logo.
 
-  Coin Website: A URL to the project's website.
+      Coin Website: A URL to the project's website.
+   
+      Amount of Coins to Mint: How many tokens you wish to create.
 
-  Amount of Coins to Mint: How many tokens you wish to create.
+      Fixed Supply: Indicate if the token will have a fixed supply (yes/no).
 
-  Fixed Supply: Indicate if the token will have a fixed supply (yes/no).
+      Special Features: Any additional functionalities (e.g., staking, governance).
 
-  Special Features: Any additional functionalities (e.g., staking, governance).
-
-  Metadata File URL: Where the metadata will be hosted.
+      Metadata File URL: Where the metadata will be hosted.
    
 3. **Confirm Token Creation**:
    
